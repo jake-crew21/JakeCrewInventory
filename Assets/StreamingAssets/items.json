@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "Happy",
+    "description": "Everyone needs a little happy in their lives",
+    "value": 40,
+    "stats": 
+    {
+      "power": 15,
+      "defence": 430,
+      "vitality": 10
+    },
+    "stackable": false,
+    "slug": "happy"
+  },
+  {
+    "id": 1,
+    "title": "Oblivion",
+    "description": "The Darkness of the Light",
+    "value": 543,
+    "stats": {
+      "power": 100,
+      "defence": 40,
+      "vitality": 80
+    },
+    "stackable": true,
+    "slug": "oblivion"
+  },
+  {
+    "id": 2,
+    "title": "Ends of the Earth",
+    "description": "The Earth breaker",
+    "value": 600,
+    "stats": {
+      "power": 120,
+      "defence": 60,
+      "vitality": 30
+    },
+    "stackable": true,
+    "slug": "ends_of_the_earth"
+  },
+  {
+    "id": 3,
+    "title": "Juvia",
+    "description": "Drip Drip Drop",
+    "value": 400,
+    "stats": 
+    {
+      "power": 150,
+      "defence": 100,
+      "vitality": 90
+    },
+    "stackable": false,
+    "slug": "juvia"
+  }
+]
