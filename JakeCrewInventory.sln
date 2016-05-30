@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JakeCrewInventory.CSharp", "JakeCrewInventory.CSharp.csproj", "{66D4037C-87B2-BF9B-D1AA-803424DEB50B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JakeCrewInventory.CSharp.Editor", "JakeCrewInventory.CSharp.Editor.csproj", "{038C7249-218F-4E39-2C85-086CAC3B78F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{66D4037C-87B2-BF9B-D1AA-803424DEB50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D4037C-87B2-BF9B-D1AA-803424DEB50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66D4037C-87B2-BF9B-D1AA-803424DEB50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038C7249-218F-4E39-2C85-086CAC3B78F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038C7249-218F-4E39-2C85-086CAC3B78F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038C7249-218F-4E39-2C85-086CAC3B78F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038C7249-218F-4E39-2C85-086CAC3B78F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
