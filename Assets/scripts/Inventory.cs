@@ -81,6 +81,9 @@ public class Inventory : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha3)) {
             AddItemById(2, 3);
         }
+        if (Input.GetKeyDown(KeyCode.Alpha4)) {
+            AddItemById(3, 4);
+        }
     }
 
     public void AddItemById(int id, int itemAmount = 1)
